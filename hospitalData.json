@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "hospitalName": "Sunrise",
+    "patientCount": 500,
+    "hospitalLocation": "Ernakulam"
+  },
+  {
+    "id": 2,
+    "hospitalName": "Sunrise",
+    "patientCount": 800,
+    "hospitalLocation": "Ernakulam"
+  }
+]
